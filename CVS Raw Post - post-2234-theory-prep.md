@@ -1,7 +1,7 @@
-# 📖 إزاي تجهّز نفسك لامتحان النظري
+# post-2234-theory-prep.md
 
-> تم الاستخراج من: https://t.me/Data_Azhar_59/prep
-> تاريخ النشر: غير معروف
+> المصدر: https://t.me/Data_Azhar_59/post-2234-theory-prep
+> تم الاستخراج: 25/9/2026
 
 ---
 

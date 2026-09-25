@@ -1,7 +1,7 @@
-# 🧪 إزاي تجهّز نفسك لامتحان العملي
+# post-2491-practical-prep.md
 
-> تم الاستخراج من: https://t.me/Data_Azhar_59/prep
-> تاريخ النشر: غير معروف
+> المصدر: https://t.me/Data_Azhar_59/post-2491-practical-prep
+> تم الاستخراج: 25/9/2026
 
 ---
 

@@ -88,16 +88,16 @@
 
 # اليوم 3 — Upper B + Intervals
 
-|التمرين|المجموعات|التكرارات|الراحة|RIR|
-|---|--:|--:|--:|--:|
-|DB Incline Press|3|8–12|2 د|2–3|
-|Seated Cable Row|3|8–12|2 د|2|
-|Neutral Lat Pulldown|3|8–12|2 د|2|
-|Machine/DB Chest Press|2|10–15|90ث|2|
-|Lateral Raise|3|12–20|60–90ث|2|
-|Face Pull|2|12–20|60–90ث|2–3|
-|Biceps Curl|2|10–15|60–90ث|2|
-|Triceps Cable Extension|2|10–15|60–90ث|2|
+| التمرين                 | المجموعات | التكرارات | الراحة | RIR |
+| ----------------------- | --------: | --------: | -----: | --: |
+| DB Incline Press        |         3 |      8–12 |    2 د | 2–3 |
+| Seated Cable Row        |         3 |      8–12 |    2 د |   2 |
+| Neutral Lat Pulldown    |         3 |      8–12 |    2 د |   2 |
+| Machine/DB Chest Press  |         2 |     10–15 |    90ث |   2 |
+| Lateral Raise           |         3 |     12–20 | 60–90ث |   2 |
+| Face Pull               |         2 |     12–20 | 60–90ث | 2–3 |
+| Biceps Curl             |         2 |     10–15 | 60–90ث |   2 |
+| Triceps Cable Extension |         2 |     10–15 | 60–90ث |   2 |
 
 ### ثم الجري
 
